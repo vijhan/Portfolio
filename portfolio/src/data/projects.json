@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Fashion Nova App",
+      "imageSrc": "projects/fashionnova.png",
+      "description": "An e-commerce website developed in React as front-end and MongoDB as back-end.",
+      "skills": ["React", "MongoDB", "Node"],
+      "demo": "https://react-fashionnova-app.netlify.app",
+      "source": "https://github.com/vijhan/FullStackGirlies.git"
+    },
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/weatherapp.png",
+      "description": "A weather app developed in React that has a text input field accepting any zip code, state or city and returns the weather details of that area.",
+      "skills": ["React", "Node"],
+      "demo": "https://vijhan-weatherapp.netlify.app",
+      "source": "https://github.com/vijhan/weatherapp.git"
+    },
+    {
+      "title": "Banking Trading App",
+      "imageSrc": "projects/project.png",
+      "description": "Banking Application developed in .Net as back-end and Angular as front-end.",
+      "skills": ["Angular", ".Net", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/My-2-Cents-2/My-2-Cents-API.git"
+    }
+  ]

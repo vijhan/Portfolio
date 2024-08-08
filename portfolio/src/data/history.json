@@ -1,0 +1,26 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "Cognizant",
+      "startDate": "April, 2022",
+      "endDate": "January, 2023",
+      "experiences": ["Resolved front-end web application bugs developed in JavaScript"],
+      "imageSrc": "history/cognizant.png"
+    },
+    {
+      "role": "Trainee",
+      "organisation": "NPower",
+      "startDate": "March, 2024",
+      "endDate": "September, 2024",
+      "experiences": ["Completed an intensive 24-week Full Stack Developer training program, gaining hands-on experience in both front-end and back-end development technologies"],
+      "imageSrc": "history/npower.png"
+    },
+    {
+      "role": "Trainee",
+      "organisation": "Revature",
+      "startDate": "February, 2022",
+      "endDate": "January, 2023",
+      "experiences": ["Finished a 13-week Full Stack Developer training program, acquiring practical expertise in front-end and back-end development technologies"],
+      "imageSrc": "history/revature.png"
+    }        
+  ]
